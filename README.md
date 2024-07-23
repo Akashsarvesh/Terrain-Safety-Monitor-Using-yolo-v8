@@ -1,4 +1,4 @@
-# Multithreaded Object Detection System with Twilio Alerts
+# Multithreaded Object Detection and Instance Segmentation With Object Tracking System with Twilio Alerts Using Yolo
 
 This project uses YOLO (You Only Look Once) models to detect various events (accidents, animals, floods) in a video file and sends alerts via Twilio. The system runs each detection model in a separate thread for efficient processing.
 
